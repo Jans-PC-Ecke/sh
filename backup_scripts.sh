@@ -1,8 +1,8 @@
 #!/bin/bash
 
 SERVER_USER="dieter2"  
-SERVER_IP="192.168.178.22"  
-PASSWORD="12041993"     # SSH-Passwort 
+SERVER_IP=""  
+PASSWORD=""     # SSH-Passwort 
 SOURCE_DIR="/home/"  # Quellordner: /home und alle Unterordner
 DEST_DIR="/home/dieter2/backup-scripts/"  # Ziel auf Server 
 
